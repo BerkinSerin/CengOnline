@@ -10,4 +10,4 @@ The main goal for this project is to build a medium like Google Classroom for te
 
 Screenshots from the application:
 
-![Screenshot][CengOnline/Screenshots/login.JPG]
+![Screenshot](Screenshots/login.JPG)
